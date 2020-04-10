@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileTransfer", "FileTransfer\FileTransfer.vcxproj", "{213E5C52-A15C-4CC2-8D30-96FB786BA10E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213E5C52-A15C-4CC2-8D30-96FB786BA10E}.Debug|x64.ActiveCfg = Debug|x64
+		{213E5C52-A15C-4CC2-8D30-96FB786BA10E}.Debug|x64.Build.0 = Debug|x64
+		{213E5C52-A15C-4CC2-8D30-96FB786BA10E}.Debug|x86.ActiveCfg = Debug|Win32
+		{213E5C52-A15C-4CC2-8D30-96FB786BA10E}.Debug|x86.Build.0 = Debug|Win32
+		{213E5C52-A15C-4CC2-8D30-96FB786BA10E}.Release|x64.ActiveCfg = Release|x64
+		{213E5C52-A15C-4CC2-8D30-96FB786BA10E}.Release|x64.Build.0 = Release|x64
+		{213E5C52-A15C-4CC2-8D30-96FB786BA10E}.Release|x86.ActiveCfg = Release|Win32
+		{213E5C52-A15C-4CC2-8D30-96FB786BA10E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F3A5540-6956-4B8F-85C0-1E679BD008F9}
+	EndGlobalSection
+EndGlobal
