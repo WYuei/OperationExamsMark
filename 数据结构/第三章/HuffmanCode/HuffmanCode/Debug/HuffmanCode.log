@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\homeworkin2020\operationexamsmark\数据结构\第三章\huffmancode\huffmancode\main.cpp(120): warning C4018: “>”: 有符号/无符号不匹配
+f:\homeworkin2020\operationexamsmark\数据结构\第三章\huffmancode\huffmancode\main.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+f:\homeworkin2020\operationexamsmark\数据结构\第三章\huffmancode\huffmancode\main.cpp(104): warning C4715: “WPL”: 不是所有的控件路径都返回值
+  HuffmanCode.vcxproj -> F:\HOMEWORKin2020\OperationExamsMark\数据结构\第三章\HuffmanCode\Debug\HuffmanCode.exe

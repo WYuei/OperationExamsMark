@@ -1,0 +1,6 @@
+﻿  main.cpp
+f:\homeworkin2020\operationexamsmark\数据结构\第三章\completebst\completebst\main.cpp(8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\homeworkin2020\operationexamsmark\数据结构\第三章\completebst\completebst\main.cpp(9): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\homeworkin2020\operationexamsmark\数据结构\第三章\completebst\completebst\main.cpp(10): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\homeworkin2020\operationexamsmark\数据结构\第三章\completebst\completebst\main.cpp(12): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  completeBST.vcxproj -> F:\HOMEWORKin2020\OperationExamsMark\数据结构\第三章\completeBST\Debug\completeBST.exe
