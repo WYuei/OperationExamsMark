@@ -1,0 +1,4 @@
+﻿  源.cpp
+f:\homeworkin2020\operationexamsmark\数据结构\第四章\saving007hardversion\saving007hardversion\源.cpp(126): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+f:\homeworkin2020\operationexamsmark\数据结构\第四章\saving007hardversion\saving007hardversion\源.cpp(132): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Saving007HardVersion.vcxproj -> F:\HOMEWORKin2020\OperationExamsMark\数据结构\第四章\Saving007HardVersion\Debug\Saving007HardVersion.exe
